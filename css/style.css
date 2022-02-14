@@ -1,3 +1,12 @@
+/* 
+* {
+    background-color: #f0dfea;
+} 
+this will have the same result as below. */
+html {
+    background-color: #f2ebff;
+}
+
 .header {
     text-align: center;
     color: #00FFFF;
