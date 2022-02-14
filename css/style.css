@@ -1,0 +1,30 @@
+.header {
+    text-align: center;
+    color: #00FFFF;
+    font-size: 100px;
+}
+
+/*
+.recipe-1,
+.recipe-2,
+.recipe-3 {
+    text-align: center;
+}
+*/
+
+.recipe-all-div {
+    text-align: center;
+}
+
+.recipe-1 {
+    background-color: yellow;
+    font-size: 40px;
+}
+.recipe-2 {
+    background-color: yellowgreen;
+    font-size: 40px;
+}
+.recipe-3 {
+    background-color: burlywood;
+    font-size: 40px;
+}
