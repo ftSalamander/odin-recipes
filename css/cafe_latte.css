@@ -1,0 +1,23 @@
+* {
+    font-family: fantasy;
+}
+
+.header-1 {
+    font-family: monospace;
+    font-size: 50px;
+    background-color: #c68c53;
+}
+
+.header-3 {
+    font-family: monospace;
+    font-size: 27px;
+    color: #604020;
+}
+
+.u-list {
+    font-size: 18px;
+}
+
+ol li {
+    font-weight: bold;
+}
