@@ -1,7 +1,7 @@
-/* 
+/*
 * {
     background-color: #f0dfea;
-} 
+}
 this will have the same result as below. */
 html {
     background-color: #f2ebff;
@@ -21,19 +21,31 @@ html {
 }
 */
 
+.parant-div {
+  border: 10px solid green;
+}
+
 .recipe-all-div {
-    text-align: center;
+  text-align: center;
+  border: 10px solid lime;
 }
 
 .recipe-1 {
     background-color: yellow;
     font-size: 40px;
+    margin-right: 10px;
+    padding: 10px;
 }
 .recipe-2 {
     background-color: yellowgreen;
     font-size: 40px;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding: 10px;
 }
 .recipe-3 {
     background-color: burlywood;
     font-size: 40px;
+    margin-left: 10px;
+    padding: 10px;
 }
